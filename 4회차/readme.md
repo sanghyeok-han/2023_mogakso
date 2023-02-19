@@ -1,7 +1,7 @@
-# readme
+# Contest Performance
 
 이번 대회에서 div2 참여 인원 총 13512명 중에 367등을 하여 레이팅이 60 올라서 1822가 되었다.
 
 코포 퍼플을 달성하기 위해서는 이러한 퍼포먼스가 연속으로 몇 번 더 나와야 한다.
 
-![Score.JPG](readme%20a1d484681d314c6081f783e08790938b/Score.jpg)
+![Score.JPG](Contest%20Performance%20a1d484681d314c6081f783e08790938b/Score.jpg)
