@@ -6,4 +6,4 @@
 
 참고로 컨테스트 퍼포먼스와 예상 레이팅 변화는 크롬 확장 프로그램 Carrot을 이용하여 확인하였다.
 
-![Score.JPG](Contest%20Performance%20a1d484681d314c6081f783e08790938b/Score.jpg)
+![Score.JPG](jpg/Score.jpg)
